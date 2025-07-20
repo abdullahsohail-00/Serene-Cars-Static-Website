@@ -41,7 +41,7 @@ This repository contains the source code for a static website for Serene Cars, a
 
 **How to Run Locally:**
 
-1. Clone the repository: `git clone https://github.com/your-username/serene-cars.git`
+1. Clone the repository: `https://github.com/abdullahsohail-00/Serene-Cars-Static-Website.git`
 2. Open `index.html` in a web browser.
 
 **Possible Improvements:**
